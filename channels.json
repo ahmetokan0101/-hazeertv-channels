@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "title": "TRT 1",
+    "description": "TRT 1 Canlı Yayın",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/2560px-TRT_1_logo_%282021-%29.svg.png",
+    "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Show TV",
+    "description": "Show TV Canlı Yayın",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",
+    "videoUrl": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Kanal D",
+    "description": "Kanal D Canlı Yayın",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png",
+    "videoUrl": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Star TV",
+    "description": "Star TV Canlı Yayın",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Star_TV_2012.svg/2560px-Star_TV_2012.svg.png",
+    "videoUrl": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "5",
+    "title": "ATV",
+    "description": "ATV Canlı Yayın",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Atv_logosu.png",
+    "videoUrl": "https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8a37e5c/298/index.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Fox TV",
+    "description": "Fox TV Canlı Yayın",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_%282019%29.svg/1200px-FOX_%282019%29.svg.png",
+    "videoUrl": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "7",
+    "title": "TV8",
+    "description": "TV8 Canlı Yayın",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",
+    "videoUrl": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "8",
+    "title": "TRT Haber",
+    "description": "TRT Haber Canlı Yayın",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/2560px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
+    "videoUrl": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Haber",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "9",
+    "title": "NTV",
+    "description": "NTV Canlı Yayın",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png",
+    "videoUrl": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Haber",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "10",
+    "title": "TRT Spor",
+    "description": "TRT Spor Canlı Yayın",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png",
+    "videoUrl": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Spor",
+      "Ülke": "Türkiye"
+    }
+  }
+] 
