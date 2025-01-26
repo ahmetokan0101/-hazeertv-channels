@@ -14,10 +14,10 @@
   },
   {
     "id": "2",
-    "title": "Show TV",
+    "title": "Show TVV",
     "description": "Show TV Canlı Yayın",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",
-    "videoUrl": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+    "videoUrl": "https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
