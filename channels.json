@@ -131,6 +131,19 @@
   },
   {
     "id": "11",
+    "title": "UZAK ŞEHİR",
+    "description": "BEYAZ TV CANLI YAYIN",
+    "thumbnailUrl": "https://www.trdiziizle.tv/wp-content/uploads/2024/11/uzaksehirkapak.jpg",
+    "videoUrl": "https://puhutv.akamaized.net/2025/01/uzak_sehir_11_bolum-45a0c41c/media-1/hdntl=exp=1738110661~acl=%2f*~data=hdntl~hmac=e9301939dcb70fc55718b728e504ea39f07d1268f78900bb7b001d6fde17a79a/stream.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Haber",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "12",
     "title": "TRT Spor",
     "description": "TRT Spor Canlı Yayın",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png",
