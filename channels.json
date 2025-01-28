@@ -118,6 +118,19 @@
   },
   {
     "id": "10",
+    "title": "BEYAZ TV",
+    "description": "BEYAZ TV CANLI YAYIN",
+    "thumbnailUrl": "https://www.bioenerji34.com/wp-content/uploads/2018/08/tv2.png",
+    "videoUrl": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Haber",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "11",
     "title": "TRT Spor",
     "description": "TRT Spor Canlı Yayın",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png",
