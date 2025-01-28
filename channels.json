@@ -118,46 +118,8 @@
   },
   {
     "id": "10",
-    "title": "BEYAZ TV",
-    "description": "BEYAZ TV CANLI YAYIN",
-    "thumbnailUrl": "https://www.bioenerji34.com/wp-content/uploads/2018/08/tv2.png",
-    "videoUrl": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Haber",
-      "Ülke": "Türkiye"
-    }
-  },
-  {
-    "id": "11",
-    "title": "WATSON",
-    "description": "WATSON 1.BÖLÜM DİZİ",
-    "thumbnailUrl": "https://yabancidizi.tv/uploads/series/watson.jpg",
-    "videoUrl": "https://trst-1112-q.vmrest.space/hls/xqx2olbtevokjiqbteucb4aewofpsh2qphew2g64otu4pybhqwhaqfor2irq/index-v1-a1.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "DİZİ",
-      "Ülke": "Türkiye"
-    }
-  },
-  {
-    "id": "12",
-    "title": "Yerel Tv",
-    "description": "Yerel Canlı Yayın",
-    "thumbnailUrl": "https://w7.pngwing.com/pngs/705/261/png-transparent-television-show-youtube-television-channel-firetv-youtube-purple-television-logo.png",
-    "videoUrl": "https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Yerel",
-      "Ülke": "Türkiye"
-    }
-    {
-    "id": "13",
-    "title": "TRT ÇOCUK",
-    "description": "TRT ÇOCUK Canlı Yayın",
+    "title": "TRT Çocuk",
+    "description": "TRT Çocuk Canlı Yayın",
     "thumbnailUrl": "https://seeklogo.com/images/T/trt-cocuk-logo-103E70D040-seeklogo.com.png",
     "videoUrl": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
     "type": "tv",
@@ -166,19 +128,5 @@
       "Kategori": "Çocuk",
       "Ülke": "Türkiye"
     }
-  },
-  },
-  {
-    "id": "14",
-    "title": "TRT Spor",
-    "description": "TRT Spor Canlı Yayın",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png",
-    "videoUrl": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Spor",
-      "Ülke": "Türkiye"
-    }
   }
-] 
+]
