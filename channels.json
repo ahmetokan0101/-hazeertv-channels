@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "2",
-    "title": "Yerel Tv",
-    "description": "Yerel Canlı Yayın",
-    "thumbnailUrl": "https://w7.pngwing.com/pngs/705/261/png-transparent-television-show-youtube-television-channel-firetv-youtube-purple-television-logo.png",
-    "videoUrl": "https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Ulusal",
-      "Ülke": "Türkiye"
-    }
-  },
-  {
     "id": "3",
     "title": "Kanal D",
     "description": "Kanal D Canlı Yayın",
@@ -167,9 +154,22 @@
       "Kategori": "Yerel",
       "Ülke": "Türkiye"
     }
+    {
+    "id": "13",
+    "title": "TRT ÇOCUK",
+    "description": "TRT ÇOCUK Canlı Yayın",
+    "thumbnailUrl": "https://seeklogo.com/images/T/trt-cocuk-logo-103E70D040-seeklogo.com.png",
+    "videoUrl": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Çocuk",
+      "Ülke": "Türkiye"
+    }
+  },
   },
   {
-    "id": "13",
+    "id": "14",
     "title": "TRT Spor",
     "description": "TRT Spor Canlı Yayın",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png",
