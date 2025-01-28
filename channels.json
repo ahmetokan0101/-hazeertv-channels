@@ -132,13 +132,13 @@
   {
     "id": "11",
     "title": "UZAK ŞEHİR",
-    "description": "BEYAZ TV CANLI YAYIN",
+    "description": "DİZİ",
     "thumbnailUrl": "https://www.trdiziizle.tv/wp-content/uploads/2024/11/uzaksehirkapak.jpg",
     "videoUrl": "https://puhutv.akamaized.net/2025/01/uzak_sehir_11_bolum-45a0c41c/media-1/hdntl=exp=1738110661~acl=%2f*~data=hdntl~hmac=e9301939dcb70fc55718b728e504ea39f07d1268f78900bb7b001d6fde17a79a/stream.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
-      "Kategori": "Haber",
+      "Kategori": "DİZİ",
       "Ülke": "Türkiye"
     }
   },
