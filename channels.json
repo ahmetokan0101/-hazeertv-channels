@@ -157,6 +157,19 @@
   },
   {
     "id": "12",
+    "title": "Yerel Tv",
+    "description": "Yerel Canlı Yayın",
+    "thumbnailUrl": "https://w7.pngwing.com/pngs/705/261/png-transparent-television-show-youtube-television-channel-firetv-youtube-purple-television-logo.png",
+    "videoUrl": "https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Yerel",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "13",
     "title": "TRT Spor",
     "description": "TRT Spor Canlı Yayın",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png",
