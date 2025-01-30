@@ -3,8 +3,8 @@
     "id": "1",
     "title": "TRT 1",
     "description": "TRT 1 CANLI YAYIN",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/66-trt1.jpg",
-    "videoUrl": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8",
+    "thumbnailUrl": "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/trt-1.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -14,10 +14,10 @@
   },
   {
     "id": "2",
-    "title": "Show TV",
-    "description": "Show TV Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/393-show.jpg",
-    "videoUrl": "https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8",
+    "title": "ATV",
+    "description": "ATV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/atv.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -28,9 +28,9 @@
   {
     "id": "3",
     "title": "Kanal D",
-    "description": "Kanal D Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/396-kanald.jpg",
-    "videoUrl": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8",
+    "description": "Kanal D CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/kanal-d.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -40,10 +40,10 @@
   },
   {
     "id": "4",
-    "title": "Star TV",
-    "description": "Star TV Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/953-starr.png",
-    "videoUrl": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
+    "title": "Show TV",
+    "description": "Show TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/show-tv.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -53,10 +53,10 @@
   },
   {
     "id": "5",
-    "title": "ATV",
-    "description": "ATV Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/784-40-atv.jpg",
-    "videoUrl": "http://spy17.eu:80/live/selentv/17.01.2022/703.ts",
+    "title": "Star TV",
+    "description": "Star TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/star-tv.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -67,9 +67,9 @@
   {
     "id": "6",
     "title": "TV8",
-    "description": "TV8 Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/175-704-tv8-canli-yayin.jpg",
-    "videoUrl": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+    "description": "TV8 CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/tv8.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -80,9 +80,9 @@
   {
     "id": "7",
     "title": "TRT Haber",
-    "description": "TRT Haber Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/85-trt-haber.jpg",
-    "videoUrl": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Haber CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png",
+    "videoUrl": "http://stream.tvcdn.net/haber/trt-haber.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -92,10 +92,10 @@
   },
   {
     "id": "8",
-    "title": "NTV",
-    "description": "NTV Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/925-ntv.jpg",
-    "videoUrl": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+    "title": "CNN Türk",
+    "description": "CNN Türk CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png",
+    "videoUrl": "http://stream.tvcdn.net/haber/cnn-turk.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -105,10 +105,10 @@
   },
   {
     "id": "9",
-    "title": "CNN Türk",
-    "description": "CNN Türk Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/924-cnn-turk.jpg",
-    "videoUrl": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+    "title": "Habertürk",
+    "description": "Habertürk CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png",
+    "videoUrl": "http://stream.tvcdn.net/haber/haberturk.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -118,10 +118,10 @@
   },
   {
     "id": "10",
-    "title": "Habertürk",
-    "description": "Habertürk Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/922-haberturk.jpg",
-    "videoUrl": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+    "title": "Haber Global",
+    "description": "Haber Global CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png",
+    "videoUrl": "http://stream.tvcdn.net/haber/haber-global.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -132,9 +132,9 @@
   {
     "id": "11",
     "title": "TRT Spor",
-    "description": "TRT Spor Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/84-trt-spor.jpg",
-    "videoUrl": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "description": "TRT Spor CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/7c82c751-b9c3-4f62-9e0c-5f6a0e89cc48.png",
+    "videoUrl": "http://stream.tvcdn.net/spor/trt-spor.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -144,23 +144,23 @@
   },
   {
     "id": "12",
-    "title": "A Spor",
-    "description": "A Spor Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/921-a-spor.jpg",
-    "videoUrl": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
+    "title": "TRT Belgesel",
+    "description": "TRT Belgesel CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/c1a4b40c-5c0c-4e91-aa41-03c84d5a2a3e.png",
+    "videoUrl": "http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
-      "Kategori": "Spor",
+      "Kategori": "Belgesel",
       "Ülke": "Türkiye"
     }
   },
   {
     "id": "13",
     "title": "TRT Çocuk",
-    "description": "TRT Çocuk Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/85-trt-cocuk.jpg",
-    "videoUrl": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+    "description": "TRT Çocuk CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/e0875360-488c-4da5-8f29-77c7c5529246.png",
+    "videoUrl": "http://stream.tvcdn.net/cocuk/trt-cocuk.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -170,41 +170,288 @@
   },
   {
     "id": "14",
-    "title": "TRT Belgesel",
-    "description": "TRT Belgesel Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/83-trt-belgesel.jpg",
-    "videoUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
+    "title": "TRT Müzik",
+    "description": "TRT Müzik CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/7c82c751-b9c3-4f62-9e0c-5f6a0e89cc48.png",
+    "videoUrl": "http://stream.tvcdn.net/muzik/trt-muzik.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
-      "Kategori": "Belgesel",
+      "Kategori": "Müzik",
       "Ülke": "Türkiye"
     }
   },
   {
     "id": "15",
-    "title": "TRT Müzik",
-    "description": "TRT Müzik Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/86-trt-muzik.jpg",
-    "videoUrl": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+    "title": "TRT Türk",
+    "description": "TRT Türk CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
-      "Kategori": "Müzik",
+      "Kategori": "Ulusal - Yurt Dışı",
       "Ülke": "Türkiye"
     }
   },
   {
     "id": "16",
-    "title": "Kral Pop",
-    "description": "Kral Pop Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/919-kral-pop.jpg",
-    "videoUrl": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8",
+    "title": "Now TV",
+    "description": "Now TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/now-tv.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
-      "Kategori": "Müzik",
+      "Kategori": "Ulusal",
       "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "17",
+    "title": "Beyaz TV",
+    "description": "Beyaz TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "18",
+    "title": "Kanal 7",
+    "description": "Kanal 7 CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/kanal-7.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "19",
+    "title": "360 TV",
+    "description": "360 TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/360-tv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "20",
+    "title": "TV 100",
+    "description": "TV 100 CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal/tv-100.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "21",
+    "title": "TRT Avaz",
+    "description": "TRT Avaz CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal - Yurt Dışı",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "22",
+    "title": "Euro D",
+    "description": "Euro D CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal - Yurt Dışı",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "23",
+    "title": "TGRT EU",
+    "description": "TGRT EU CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal - Yurt Dışı",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "24",
+    "title": "Show Türk",
+    "description": "Show Türk CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal - Yurt Dışı",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "25",
+    "title": "Kanal 7 Avrupa",
+    "description": "Kanal 7 Avrupa CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",
+    "videoUrl": "http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Ulusal - Yurt Dışı",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "26",
+    "title": "A Haber",
+    "description": "A Haber CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png",
+    "videoUrl": "http://stream.tvcdn.net/haber/a-haber.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Haber",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "27",
+    "title": "Ülke TV",
+    "description": "Ülke TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png",
+    "videoUrl": "http://stream.tvcdn.net/haber/ulke-tv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Haber",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "28",
+    "title": "Halk TV",
+    "description": "Halk TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png",
+    "videoUrl": "http://stream.tvcdn.net/haber/halk-tv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Haber",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "29",
+    "title": "Apa TV",
+    "description": "Apa TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/07df8da2-6115-49e7-84fb-717cadf0723d.png",
+    "videoUrl": "http://stream.tvcdn.net/azerbaycan/apa-tv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Azerbaycan",
+      "Ülke": "Azerbaycan"
+    }
+  },
+  {
+    "id": "30",
+    "title": "ARB",
+    "description": "ARB CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png",
+    "videoUrl": "http://stream.tvcdn.net/azerbaycan/arb.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Azerbaycan",
+      "Ülke": "Azerbaycan"
+    }
+  },
+  {
+    "id": "31",
+    "title": "ARB 24",
+    "description": "ARB 24 CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png",
+    "videoUrl": "http://stream.tvcdn.net/azerbaycan/arb-24.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Azerbaycan",
+      "Ülke": "Azerbaycan"
+    }
+  },
+  {
+    "id": "32",
+    "title": "ARB Gunes",
+    "description": "ARB Gunes CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png",
+    "videoUrl": "http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Azerbaycan",
+      "Ülke": "Azerbaycan"
+    }
+  },
+  {
+    "id": "33",
+    "title": "AZ TV",
+    "description": "AZ TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png",
+    "videoUrl": "http://stream.tvcdn.net/azerbaycan/az-tv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Azerbaycan",
+      "Ülke": "Azerbaycan"
+    }
+  },
+  {
+    "id": "34",
+    "title": "Azad TV",
+    "description": "Azad TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/84f1c014-d4b5-48bf-be6b-97afd96c7cb5.png",
+    "videoUrl": "http://stream.tvcdn.net/azerbaycan/azad-tv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Azerbaycan",
+      "Ülke": "Azerbaycan"
+    }
+  },
+  {
+    "id": "35",
+    "title": "Az Star TV",
+    "description": "Az Star TV CANLI YAYIN",
+    "thumbnailUrl": "http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png",
+    "videoUrl": "http://stream.tvcdn.net/azerbaycan/az-star-tv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Azerbaycan",
+      "Ülke": "Azerbaycan"
     }
   }
 ] 
