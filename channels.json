@@ -4,7 +4,7 @@
     "title": "TRT 11",
     "description": "TRT 1 CANLI YAYIN",
     "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/66-trt1.jpg",
-    "videoUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "videoUrl": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -30,7 +30,7 @@
     "title": "Kanal D",
     "description": "Kanal D Canlı Yayın",
     "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/396-kanald.jpg",
-    "videoUrl": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8",
+    "videoUrl": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -43,7 +43,7 @@
     "title": "Star TV",
     "description": "Star TV Canlı Yayın",
     "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/953-starr.png",
-    "videoUrl": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+    "videoUrl": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -56,7 +56,7 @@
     "title": "ATV",
     "description": "ATV Canlı Yayın",
     "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/784-40-atv.jpg",
-    "videoUrl": "https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8a37e5c/298/index.m3u8",
+    "videoUrl": "http://spy17.eu:80/live/selentv/17.01.2022/703.ts",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
     "additionalInfo": {
@@ -66,8 +66,8 @@
   },
   {
     "id": "6",
-    "title": "Fox TV",
-    "description": "Fox TV Canlı Yayın",
+    "title": "NOW",
+    "description": "NOW Canlı Yayın",
     "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/63-303-now.jpg",
     "videoUrl": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
     "type": "tv",
@@ -94,7 +94,7 @@
     "id": "8",
     "title": "TRT Haber",
     "description": "TRT Haber Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/411-trthaber.jpg",
+    "thumbnailUrl": "http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png",
     "videoUrl": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
