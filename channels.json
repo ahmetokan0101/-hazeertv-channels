@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "TRT 11",
+    "title": "TRT 1",
     "description": "TRT 1 CANLI YAYIN",
     "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/66-trt1.jpg",
     "videoUrl": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8",
@@ -66,19 +66,6 @@
   },
   {
     "id": "6",
-    "title": "NOW",
-    "description": "NOW Canlı Yayın",
-    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/63-303-now.jpg",
-    "videoUrl": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
-    "type": "tv",
-    "addedDate": "2024-02-21T12:00:00.000Z",
-    "additionalInfo": {
-      "Kategori": "Ulusal",
-      "Ülke": "Türkiye"
-    }
-  },
-  {
-    "id": "7",
     "title": "TV8",
     "description": "TV8 Canlı Yayın",
     "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/175-704-tv8-canli-yayin.jpg",
@@ -91,10 +78,10 @@
     }
   },
   {
-    "id": "8",
+    "id": "7",
     "title": "TRT Haber",
     "description": "TRT Haber Canlı Yayın",
-    "thumbnailUrl": "http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png",
+    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/85-trt-haber.jpg",
     "videoUrl": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
@@ -104,7 +91,7 @@
     }
   },
   {
-    "id": "9",
+    "id": "8",
     "title": "NTV",
     "description": "NTV Canlı Yayın",
     "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/925-ntv.jpg",
@@ -117,7 +104,59 @@
     }
   },
   {
+    "id": "9",
+    "title": "CNN Türk",
+    "description": "CNN Türk Canlı Yayın",
+    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/924-cnn-turk.jpg",
+    "videoUrl": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Haber",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
     "id": "10",
+    "title": "Habertürk",
+    "description": "Habertürk Canlı Yayın",
+    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/922-haberturk.jpg",
+    "videoUrl": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Haber",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "11",
+    "title": "TRT Spor",
+    "description": "TRT Spor Canlı Yayın",
+    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/84-trt-spor.jpg",
+    "videoUrl": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Spor",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "12",
+    "title": "A Spor",
+    "description": "A Spor Canlı Yayın",
+    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/921-a-spor.jpg",
+    "videoUrl": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Spor",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "13",
     "title": "TRT Çocuk",
     "description": "TRT Çocuk Canlı Yayın",
     "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/85-trt-cocuk.jpg",
@@ -128,5 +167,44 @@
       "Kategori": "Çocuk",
       "Ülke": "Türkiye"
     }
+  },
+  {
+    "id": "14",
+    "title": "TRT Belgesel",
+    "description": "TRT Belgesel Canlı Yayın",
+    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/83-trt-belgesel.jpg",
+    "videoUrl": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Belgesel",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "15",
+    "title": "TRT Müzik",
+    "description": "TRT Müzik Canlı Yayın",
+    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/86-trt-muzik.jpg",
+    "videoUrl": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Müzik",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "16",
+    "title": "Kral Pop",
+    "description": "Kral Pop Canlı Yayın",
+    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/919-kral-pop.jpg",
+    "videoUrl": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8",
+    "type": "tv",
+    "addedDate": "2024-02-21T12:00:00.000Z",
+    "additionalInfo": {
+      "Kategori": "Müzik",
+      "Ülke": "Türkiye"
+    }
   }
-]
+] 
