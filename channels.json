@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "TRT 11",
+    "title": "TRT 1",
     "description": "TRT 1 CANLI YAYIN",
     "thumbnailUrl": "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",
     "videoUrl": "http://stream.tvcdn.net/ulusal/trt-1.m3u8",
@@ -14,7 +14,7 @@
   },
   {
     "id": "2",
-    "title": "ATVv",
+    "title": "ATV",
     "description": "ATV CANLI YAYIN",
     "thumbnailUrl": "http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png",
     "videoUrl": "http://stream.tvcdn.net/ulusal/atv.m3u8",
