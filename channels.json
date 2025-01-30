@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "TRT 1",
+    "title": "TRT 11",
     "description": "TRT 1 CANLI YAYIN",
     "thumbnailUrl": "http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",
     "videoUrl": "http://stream.tvcdn.net/ulusal/trt-1.m3u8",
@@ -133,7 +133,7 @@
     "id": "11",
     "title": "TRT Spor",
     "description": "TRT Spor CANLI YAYIN",
-    "thumbnailUrl": "http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png",
+    "thumbnailUrl": "https://tv.habersunum.com/uploads/tv/577-trtspor.jpg",
     "videoUrl": "http://stream.tvcdn.net/spor/trt-spor.m3u8",
     "type": "tv",
     "addedDate": "2024-02-21T12:00:00.000Z",
