@@ -460,7 +460,7 @@
     "description": "İkinci film açıklaması",
     "videoUrl": "film-2-video-url",
     "thumbnailUrl": "film-2-poster-url",
-    "type": "tv",
+    "type": "movie",
     "addedDate": "2024-03-19T00:00:00Z",
     "additionalInfo": {
       "Kategori": "Dini",
