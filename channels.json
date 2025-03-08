@@ -637,19 +637,6 @@
         }
     },
     {
-        "id": "1741470899144",
-        "title": "Dadının Böylesi",
-        "description": "Dadının Böylesi İzle",
-        "thumbnailUrl": "https:\/\/img01.imgsinemalar.com\/images\/afis_buyuk\/d\/der-nanny-1660924325.jpg",
-        "videoUrl": "https:\/\/box-wi-967.vmeas.cloud\/hls\/xqx2p5tyenokjiqbtf2cb6qc4hefiuvbqmcgae3f2jidq7pt2mhymug4thna\/index-v1-a1.m3u8",
-        "type": "movie",
-        "addedDate": "2025-03-08T21:54:59.144Z",
-        "additionalInfo": {
-            "Kategori": "Aile",
-            "Ülke": "Türkiye"
-        }
-    },
-    {
         "id": "1741472399899",
         "title": "Baykuşlar ve Fareler",
         "description": "Baykuşlar ve Fareler İzle",
@@ -670,6 +657,32 @@
         "videoUrl": "https:\/\/box-1181-pd.vmwesa.online\/hls\/xqx2pe55evokjiqbtezsbiq6435rmvnvdxpa6elddzrh4n2fk3zy2z4b2roq\/index-v1-a1.m3u8",
         "type": "movie",
         "addedDate": "2025-03-08T22:20:43.250Z",
+        "additionalInfo": {
+            "Kategori": "Aile",
+            "Ülke": "Türkiye"
+        }
+    },
+    {
+        "id": "1741472801850",
+        "title": "Çılgın Russell",
+        "description": "Çılgın Russell İzle",
+        "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/russell-madness_list.webp",
+        "videoUrl": "https:\/\/box-1102-t.vmeas.cloud\/hls\/xqx2oktvevokjiqbtessboaoveg6lbgymu77lazkb43p5wzm3zbma5kbwmja\/index-v1-a1.m3u8",
+        "type": "movie",
+        "addedDate": "2025-03-08T22:26:41.850Z",
+        "additionalInfo": {
+            "Kategori": "Aile",
+            "Ülke": "Türkiye"
+        }
+    },
+    {
+        "id": "1741472869024",
+        "title": "Fear",
+        "description": "Fear İzle",
+        "thumbnailUrl": "https:\/\/filmekseni.net\/uploads\/poster\/fear-2024_list.webp",
+        "videoUrl": "https:\/\/box-1183-rp.vmwesa.online\/hls\/xqx2ptxufjokjiqbtercbkaox7jl3xuuql2kfy6dxitaemybbrbghdl2bikq\/index-v1-a1.m3u8",
+        "type": "movie",
+        "addedDate": "2025-03-08T22:27:49.024Z",
         "additionalInfo": {
             "Kategori": "Aile",
             "Ülke": "Türkiye"
