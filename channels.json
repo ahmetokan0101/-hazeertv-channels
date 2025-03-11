@@ -8,7 +8,7 @@
         "type": "tv",
         "addedDate": "2024-02-21T12:00:00.000Z",
         "additionalInfo": {
-            "Kategori": "Halil",
+            "Kategori": ["Ulusal", "Halil"],
             "Ülke": "Türkiye"
         }
     },
@@ -21,7 +21,7 @@
         "type": "tv",
         "addedDate": "2024-02-21T12:00:00.000Z",
         "additionalInfo": {
-            "Kategori": "Dini",
+            "Kategori": ["Ulusal", "Dini"],
             "Ülke": "Türkiye"
         }
     },
@@ -476,7 +476,7 @@
         "type": "movie",
         "addedDate": "2025-03-08T19:48:16.577Z",
         "additionalInfo": {
-            "Kategori": "Animasyon",
+            "Kategori": ["Animasyon", "Aile"],
             "Ülke": "Türkiye"
         }
     },
@@ -515,7 +515,7 @@
         "type": "movie",
         "addedDate": "2025-03-08T21:27:19.320Z",
         "additionalInfo": {
-            "Kategori": "Korku",
+            "Kategori": ["Korku", "Gerilim"],
             "Ülke": "Türkiye"
         }
     },
@@ -541,7 +541,7 @@
         "type": "movie",
         "addedDate": "2025-03-08T21:35:53.100Z",
         "additionalInfo": {
-            "Kategori": "Gerilim",
+            "Kategori": ["Gerilim", "Dram"],
             "Ülke": "Türkiye"
         }
     },
